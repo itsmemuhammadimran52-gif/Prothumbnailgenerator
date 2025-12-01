@@ -1,5 +1,5 @@
-
-## Run Locally
+# Pro Thumbnail generator
+## Run Locally 
 
 **Prerequisites:**  Node.js
 
